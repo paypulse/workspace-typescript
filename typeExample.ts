@@ -43,6 +43,7 @@ let notSure1: any = true;
 
 let listTest: any[] = [1, true, "free"];
 listTest[1] = 100;
+console.log(notSure);
 console.log(listTest);
 
 
